@@ -1,7 +1,7 @@
 # 1pass2hashcat
 The 1Pass 2 Hashcat Tool that Extracts the Master Password in a format Hashcat can process. 
 
-*NOTE* The source code is on a disk I cant access at the moment, a link to the ZIP of the compiled executable is here: https://www.hashfind.net/1pass2hashcat.zip
+*NOTE* The source code is on a disk I cant access at the moment, a link to the ZIP of the compiled executable is here: http://archive.hashfind.net/1pass2hashcat.zip
 
 
 Usage:
